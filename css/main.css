@@ -1,0 +1,21 @@
+html {
+  box-sizing: border-box;
+  font-family: 'Lato', sans-serif;
+  line-height: 1.5;
+  background-color: #eee9de;
+  color: #333;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+img {
+  display: block;
+  width: 100%;
+}
+
+div {
+  display: inline-block;
+  max-width: 25em;
+}
